@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <h2 align="center">🚀 Tecnologias</h2>
 
 <div align="center">
@@ -17,10 +15,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,cpp,bootstrap,postgres,git,java,figma,arduino&theme=dark"/>
 
 </div>
-
----
-
-<h2 align="center">📊 Estatísticas GitHub</h2>
 
 <div align="center">
 
