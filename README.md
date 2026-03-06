@@ -1,34 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=23"/>
 
-<h1 align="center">Prazer, meu nome é Alexandre 👋</h1>
+<h1 align="center">👨‍💻 Alexandre Borghi</h1>
 
-<p align="center">
-Abaixo estão algumas das linguagens e tecnologias que tenho experiência:
-</p>
+<div align="center">
 
-<div align="center"><br>
-
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-<img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+de+Software;React+%7C+JavaScript+%7C+TypeScript;Python+%7C+PostgreSQL+%7C+Cloud;Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">📫 Minhas Redes</h2>
+<h2 align="center">🚀 Tecnologias</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,cpp,bootstrap,postgres,git,java,figma,arduino&theme=dark"/>
+
+</div>
+
+---
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandreborghi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreborghi&layout=compact&langs_count=10&theme=tokyonight"/>
+
+</div>
+
+---
+
+<h2 align="center">🔥 Atividade de Programação</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreborghi&theme=tokyo-night"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribuições</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<h2 align="center">📫 Contato</h2>
 
 <div align="center">
 
@@ -41,3 +65,5 @@ Abaixo estão algumas das linguagens e tecnologias que tenho experiência:
 </a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=23&section=footer"/>
