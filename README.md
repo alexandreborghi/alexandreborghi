@@ -22,9 +22,6 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreborghi&layout=compact&langs_count=10&theme=tokyonight"/>
 
-</div>
-</div>
-
 <h2 align="center">📫 Contato</h2>
 
 <div align="center">
