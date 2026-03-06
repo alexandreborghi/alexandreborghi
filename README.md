@@ -3,30 +3,16 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
 </div>
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b></b>
   <samp>
       <br>
        <b></b>
   </samp>
 </div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
-<br>
-<br>
       
 <div align="center">
   <br>
