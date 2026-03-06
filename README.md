@@ -22,11 +22,6 @@
 
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
   <br>
   <br>
   
