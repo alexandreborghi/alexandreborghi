@@ -1,37 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
-
-<br>
-
-<div align="center">
-</div>
-
-<div align="center">
-  
-  <b></b>
-  <samp>
-      <br>
-       <b></b>
-  </samp>
-</div>
-      
-<div align="center">
-  <br>
-  <br>
-
-<details align="center">  
-
-
-<div align="center">
-  <br>
-  <br>
-  
-</div>
-
-<div align="center">
- 
-</div>
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
 
 #Prazer meu nome é Alexandre
