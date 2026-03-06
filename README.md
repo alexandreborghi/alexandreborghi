@@ -29,28 +29,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreborghi&layout=compact&langs_count=10&theme=tokyonight"/>
 
 </div>
-
----
-
-<h2 align="center">🔥 Atividade de Programação</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreborghi&theme=tokyo-night"/>
-
 </div>
-
----
-
-<h2 align="center">🐍 Contribuições</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 <h2 align="center">📫 Contato</h2>
 
