@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=23"/>
 
-<h1 align="center">👨‍💻 Alexandre Borghi</h1>
+<h1 align="center">👨‍💻 Alexandre Borghi Gava</h1>
 
 <div align="center">
 
